@@ -1,0 +1,3 @@
+This file contains all the sources from where I am learning data analytics
+
+1. Cisco Learning Academy: Data Analytics Essentials (skillsforall.com)
