@@ -31,6 +31,3 @@ The primary tools used for the analysis are Power BI and Excel.
 2. Install Power BI and Excel (preferablly latest version)
 3. Open and run the Power BI report `Electric Vehicle Analysis.pbix`.
 
-## Contact
-For any questions or feedback, feel free to reach out to me.
-
