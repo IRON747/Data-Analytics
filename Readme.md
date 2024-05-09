@@ -25,4 +25,4 @@ Feel free to explore each folder to learn more about my skills and experience.
 
 Stay tuned!
 
-This repository will be updated with new projects as I continue to develop my data analytics skills.
+This repository will be updated with new projects.
